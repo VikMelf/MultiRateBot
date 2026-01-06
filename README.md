@@ -47,6 +47,11 @@ Create .env file: BOT_TOKEN=your_bot_token_here
 
 Run the bot: python multiratebot.py
 
+## 🎥 Demo Video
+
+[![Watch the demo](preview.png)](demo.mp4)
+
+
 📬 Author
 
 Victor Molven
